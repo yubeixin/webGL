@@ -1,4 +1,4 @@
-## DrawRectangle
+### DrawRectangle
 Canvas绘制矩形
 ## HelloCanvs
 WebGL实例程序
